@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Profile</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="Profile.jpeg" alt="Abdurrahman Sefn" class="profile-img">
+            <h1>Abdurrahman Sefn</h1>
+            <p class="subtitle">Computer Engineering Student</p>
+        </header>
+
+        <section id="about">
+            <h2>About Me</h2>
+            <p>I am a Computer and Control Systems Engineering student at Mansoura University with a strong focus on software engineering, data structures, and algorithms. I have experience building complex systems like a Library Management System, an Ask.fm clone, and a C++ utility library. I am passionate about problem-solving and have solved over 350 problems on LeetCode.</p>
+            <div class="contact-info">
+                <p>📍 Cairo, Egypt</p>
+                <p>📧 <a href="mailto:abdurrahman.sefn@gmail.com">abdurrahman.sefn@gmail.com</a></p>
+                <p>📞 +201021732433</p>
+            </div>
+            <div class="social-links">
+                <a href="https://github.com/abdurrahman-sefn" target="_blank">GitHub</a> | 
+                <a href="https://linkedin.com/in/abdurrahman-sefn" target="_blank">LinkedIn</a> | 
+                <a href="https://leetcode.com/AbdurrahmanSefn" target="_blank">LeetCode</a>
+            </div>
+        </section>
+
+        <section id="skills">
+            <h2>Technical Skills</h2>
+            <ul class="skills-list">
+                <li>
+                    <span>C++ (Primary)</span>
+                    <div class="progress-bar"><div class="progress" style="width: 95%;"></div></div>
+                </li>
+                <li>
+                    <span>Data Structures & Algorithms</span>
+                    <div class="progress-bar"><div class="progress" style="width: 90%;"></div></div>
+                </li>
+                <li>
+                    <span>C#</span>
+                    <div class="progress-bar"><div class="progress" style="width: 50%;"></div></div>
+                </li>
+                <li>
+                    <span>Git & GitHub</span>
+                    <div class="progress-bar"><div class="progress" style="width: 40%;"></div></div>
+                </li>
+                <li>
+                    <span>Linux</span>
+                    <div class="progress-bar"><div class="progress" style="width: 40%;"></div></div>
+                </li>
+            </ul>
+        </section>
+
+        <section id="projects">
+            <h2>Key Projects</h2>
+            <div class="project">
+                <h3>Sefn-Utils (C++ Library)</h3>
+                <p>A header-only C++ library providing reusable data structures and utilities, featuring a generic Trie for auto-completion and robust input validation.</p>
+            </div>
+            <div class="project">
+                <h3>Library Management System V2</h3>
+                <p>A decoupled system using the Manager Design Pattern and a custom Trie for instant book and user lookups.</p>
+            </div>
+        </section>
+
+        <section id="media">
+            <h2>Featured Media</h2>
+            <div class="media-container">
+                <p style="padding: 20px; text-align: center; color: #fff;">Check out my GitHub for project demos and source code!</p>
+            </div>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <form action="#" method="post">
+                <div class="form-group">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="message">Message:</label>
+                    <textarea id="message" name="message" rows="4" required></textarea>
+                </div>
+                <button type="submit">Send Message</button>
+            </form>
+        </section>
+    </div>
+</body>
+</html>
