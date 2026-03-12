@@ -1,0 +1,15 @@
+/home/abdurrahman-sefn/HW/DotNet/02 OOP/SuperheroBattleArena/bin/Debug/net10.0/SuperheroBattleArena
+/home/abdurrahman-sefn/HW/DotNet/02 OOP/SuperheroBattleArena/bin/Debug/net10.0/SuperheroBattleArena.deps.json
+/home/abdurrahman-sefn/HW/DotNet/02 OOP/SuperheroBattleArena/bin/Debug/net10.0/SuperheroBattleArena.runtimeconfig.json
+/home/abdurrahman-sefn/HW/DotNet/02 OOP/SuperheroBattleArena/bin/Debug/net10.0/SuperheroBattleArena.dll
+/home/abdurrahman-sefn/HW/DotNet/02 OOP/SuperheroBattleArena/bin/Debug/net10.0/SuperheroBattleArena.pdb
+/home/abdurrahman-sefn/HW/DotNet/02 OOP/SuperheroBattleArena/obj/Debug/net10.0/SuperheroBattleArena.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdurrahman-sefn/HW/DotNet/02 OOP/SuperheroBattleArena/obj/Debug/net10.0/SuperheroBattleArena.AssemblyInfoInputs.cache
+/home/abdurrahman-sefn/HW/DotNet/02 OOP/SuperheroBattleArena/obj/Debug/net10.0/SuperheroBattleArena.AssemblyInfo.cs
+/home/abdurrahman-sefn/HW/DotNet/02 OOP/SuperheroBattleArena/obj/Debug/net10.0/SuperheroBattleArena.csproj.CoreCompileInputs.cache
+/home/abdurrahman-sefn/HW/DotNet/02 OOP/SuperheroBattleArena/obj/Debug/net10.0/SuperheroBattleArena.sourcelink.json
+/home/abdurrahman-sefn/HW/DotNet/02 OOP/SuperheroBattleArena/obj/Debug/net10.0/SuperheroBattleArena.dll
+/home/abdurrahman-sefn/HW/DotNet/02 OOP/SuperheroBattleArena/obj/Debug/net10.0/refint/SuperheroBattleArena.dll
+/home/abdurrahman-sefn/HW/DotNet/02 OOP/SuperheroBattleArena/obj/Debug/net10.0/SuperheroBattleArena.pdb
+/home/abdurrahman-sefn/HW/DotNet/02 OOP/SuperheroBattleArena/obj/Debug/net10.0/SuperheroBattleArena.genruntimeconfig.cache
+/home/abdurrahman-sefn/HW/DotNet/02 OOP/SuperheroBattleArena/obj/Debug/net10.0/ref/SuperheroBattleArena.dll
